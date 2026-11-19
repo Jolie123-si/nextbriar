@@ -37,3 +37,5 @@ for reproduction.
 
 [![Donate using Liberapay](https://briarproject.org/img/liberapay.svg)](https://liberapay.com/Briar/donate)   
 Bitcoin and BCH: 1NZCKkUCtJV2U2Y9hDb9uq8S7ksFCFGR6K
+
+NextBriar Business Pro is a derivative of Briar (https://briarproject.org), licensed under GPLv3. Original copyright notices are preserved.
