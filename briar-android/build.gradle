@@ -30,7 +30,7 @@ android {
 		targetSdkVersion 35
 		versionCode 10524
 		versionName "1.5.24"
-		applicationId "org.briarproject.briar.android"
+		applicationId "com.toxchat.nextbriar"
 		buildConfigField "String", "TorVersion", "\"$tor_version\""
 
 		vectorDrawables.useSupportLibrary = true
